@@ -2,4 +2,6 @@ Buah :
 1.Kelapa
 2.Apel
 3.Anggur
+4.Semangaka
+
 

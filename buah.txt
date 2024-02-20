@@ -3,5 +3,7 @@ Buah :
 2.Apel
 3.Anggur
 4.Semangaka
+5.Pisang
+6.Manggis
 
 

@@ -1,0 +1,53 @@
+{
+    "perusahaan": {
+      "industri": "Teknologi",
+      "divisi": [
+        {
+          "nama": "Pengembangan",
+          "karyawan": [
+            {
+              "nama": "John Doe",
+              "posisi": "Programmer",
+              "gaji": 50000
+            },
+            {
+              "nama": "Jane Smith",
+              "posisi": "Desainer UI/UX",
+              "gaji": 60000
+            }
+          ]
+        },
+        {
+          "nama": "Pemasaran",
+          "karyawan": [
+            {
+              "nama": "Alice Johnson",
+              "posisi": "Spesialis Pemasaran Digital",
+              "gaji": 55000
+            },
+            {
+              "nama": "Bob Anderson",
+              "posisi": "Manajer Pemasaran",
+              "gaji": 70000
+            }
+          ]
+        },
+        {
+          "nama": "Keuangan",
+          "karyawan": [
+            {
+              "nama": "Eva Brown",
+              "posisi": "Akuntan",
+              "gaji": 65000
+            },
+            {
+              "nama": "Michael White",
+              "posisi": "Manajer Keuangan",
+              "gaji": 75000
+            }
+          ]
+        }
+      ]
+    }
+  }
+  

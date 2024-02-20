@@ -1,0 +1,11 @@
+{
+    "nama" : "Wilson",
+    "umur" : 18,
+    "isMarried" : false,
+    "hobi" : ["main Game", "Nganggur"],
+    "alamat" : {
+        "provinsi" : "Jawat Utara",
+        "kota" : "Majalengka"
+    }
+
+}

@@ -1,0 +1,19 @@
+<perpustakaan>
+    <rak>
+        <buku>
+            <judul>Pemrogaman Web Lanjutan</judul>
+            <pengarang>Budi</pengarang>
+            <penerbit>Informatika Utama</penerbit>
+        </buku>
+        <buku>
+            <judul>Pemrogaman Java Netbeans</judul>
+            <pengarang>Agus</pengarang>
+            <penerbit>Informatika Utama</penerbit>
+        </buku>
+        <buku>
+            <judul>Database MySQL</judul>
+            <pengarang>Cecep</pengarang>
+            <penerbit>Informatika Utama</penerbit>
+        </buku>
+    </rak>
+</perpustakaan>

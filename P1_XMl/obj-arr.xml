@@ -1,0 +1,9 @@
+<!-- obkel pada xml -->
+<mahasantri nama="Dery" alamat="Bandung" nim="545234353" />
+
+<!-- array pada xml -->
+<members>
+    <user>Ucup</user>
+    <user>Bambang</user>
+    <user>agus</user>
+</members>
